@@ -1,11 +1,11 @@
 # 🚀 Jim Nelin - Senior Full-Stack & Infrastructure Engineer 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Bridging+Infrastructure+to+Modern+Web+Experiences;IoT+Enthusiast+%7C+AI+Explorer+%7C+Network+Guru;Welcome+to+2026%2C+Let's+Build+the+Future!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Senior+Full-Stack+%26+Infrastructure+Engineer;Networking+%7C+IoT+%7C+AI%2FML+Enthusiast;Building+the+Future+in+2026" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jine&show_icons=true&theme=tokyonight&hide_border=true" alt="Jim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jine&show_icons=true&theme=radical&hide_border=true" alt="Jim's GitHub stats" />
 </div>
 
 ## 👋 About Me
@@ -49,27 +49,13 @@ When I'm not engineering, you'll find me tinkering with smart home automations o
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌟 Highlighted Projects
 
-### 🏠 Smart Home & IoT
-- **Home Assistant Integrations**: Custom components for authenticated logins and automation ([hass-authenticated](https://github.com/jine/hass-authenticated))
-- **UniFi on pfSense**: Script for installing UniFi Controller on FreeBSD systems ([unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense))
-
-### 🌐 Web & Infrastructure
-- **ArchDNS.com**: Highly available DNS service with PHP/Python backend (2012-2016)
-- **Bit LC Inc.**: Pioneering Bitcoin services in the early crypto days (2011-2012)
-- **Personal Site**: Built with modern web tech ([jine.github.io](https://jine.github.io/))
-
-### 🔧 Open Source Contributions
-- [SendGrid PHP API](https://github.com/sendgrid/sendgrid-php) - Official library
-- [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - Web interface for MySQL
-- [NetBox Device Type Library](https://github.com/netbox-community/devicetype-library) - Community device definitions
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jine&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🤝 Connect with Me
