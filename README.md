@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Senior+Full-Stack+%26+Infrastructure+Engineer;Networking+%7C+IoT+%7C+AI%2FML+Enthusiast;Building+the+Future+in+2026" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jine&show_icons=true&theme=radical&hide_border=true" alt="Jim's GitHub stats" />
-</div>
+
 
 ## 👋 About Me
 
@@ -51,12 +49,7 @@ When I'm not engineering, you'll find me tinkering with smart home automations o
 
 
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jine&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🤝 Connect with Me
 
@@ -75,9 +68,7 @@ When I'm not engineering, you'll find me tinkering with smart home automations o
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+
 
 ---
 
