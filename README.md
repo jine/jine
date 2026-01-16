@@ -1,4 +1,4 @@
-# Hi, I'm Jim 🚀
+# Jim Nelin
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Senior+Full-Stack+%26+Infrastructure+Engineer;Networking+%7C+IoT+%7C+AI%2FML+Enthusiast;Building+the+Future+in+2026" alt="Typing SVG" />
