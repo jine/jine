@@ -59,10 +59,3 @@ When I'm not engineering, you'll find me tinkering with smart home automations o
   <a href="https://x.com/JimNelin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:jim@jine.se"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-
-
-
-<div align="center">
-  <em>🌌 Exploring the intersection of technology and innovation in 2026 🌌</em>
-</div>
