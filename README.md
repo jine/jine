@@ -5,11 +5,15 @@
 
 
 
-## 👋 About Me
+## 👋 Who is Jim?
 
-Hi there! I'm **Jim Nelin**, a seasoned Senior Full-Stack & Infrastructure Engineer based in **Stockholm, Sweden**. With over 10 years in IT, I thrive on tackling complex challenges in networking, Linux systems, IoT, and AI/ML. Currently honing my frontend skills at Lexicon with modern tools like React, Next.js, and TypeScript.
+Over 10 years building and breaking things in IT. Begun as a backend developer in PHP; jumped deep in networking and Linux systems, led infrastructure projects at scale, shipped IoT/security solutions and dabbled in early crypto and tons of various smaller side projects. Now bridging that foundation to modern full-stack work: React, Next.js, TypeScript, performant frontends, while still loving the ops side - VMs, Docker, Kubernetes, automation and high-availability setups.
 
-When I'm not engineering, you'll find me tinkering with smart home automations or exploring the latest in AI. I believe in bridging robust infrastructure with sleek, user-friendly experiences. Let's connect and innovate! 🌟
+Currently leveling up frontend at Lexicon (2025-2026). On my spare time i play with home automation, varius AI experiments and occasional hardware projects.
+
+I like solving hard problems cleanly, whether it's wrangling networks, optimizing stacks, or making UIs feel effortless.
+
+Open to interesting challenges in infrastructure, full-stack, IoT, or AI integration. 🌟
 
 ## 🛠️ Tech Stack & Skills
 
