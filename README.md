@@ -13,7 +13,7 @@ Currently leveling up frontend at Lexicon (2025-2026). On my spare time i play w
 
 I like solving hard problems cleanly, whether it's wrangling networks, optimizing stacks, or making UIs feel effortless.
 
-Open to interesting challenges in infrastructure, full-stack, IoT, or AI integration. 🌟
+Open to interesting challenges in infrastructure, full-stack, IoT, or AI integration. 
 
 ## 🛠️ Tech Stack & Skills
 
