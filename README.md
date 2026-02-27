@@ -1,7 +1,7 @@
 # Jim Nelin
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=2200&color=00D4FF&center=true&vCenter=true&width=780&lines=Senior+Full-Stack+%26+Infrastructure+Engineer;Linux+%7C+Kubernetes+%7C+IoT+%7C+AI%2FML;Bridging+Infra+and+Modern+Frontend+in+2026" alt="Typing SVG" /></div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=2200&color=00D4FF&center=true&vCenter=true&width=780&lines=Senior+Full-Stack+%26+Infrastructure+Engineer;Linux+%7C+Kubernetes+%7C+IoT+%7C+AI%2FML;Bridging+Infra+and+Modern+Frontend+" alt="Typing SVG" /></div>
 
 
 
